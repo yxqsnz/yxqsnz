@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+## i'm yxqsnz. a normal programmer.
+### I use:
+<div id="i_use">
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="HTML5"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
+<img height="32" src="https://brandslogos.com/wp-content/uploads/images/python-logo-vector.svg">
+<img height="32" src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">
 
-<!--
-**yxqsnz/yxqsnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> </p>
+<img height="32" src="https://img.icons8.com/color/30/000000/mongodb.png"/>
+<img height="32" src="https://logodownload.org/wp-content/uploads/2018/05/sqlite-logo-1.png">
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png">
+<img height="32" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
+</div>
 
-Here are some ideas to get you started:
+<div id="stats">
+ <img height="204" src="https://github-readme-stats.vercel.app/api?username=yxqsnz&show_icons=true&theme=dracula">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxqsnz&theme=dracula">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
