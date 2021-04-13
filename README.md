@@ -11,11 +11,13 @@
 <img height="32" src="https://img.icons8.com/color/30/000000/mongodb.png"/>
 <img height="32" src="https://logodownload.org/wp-content/uploads/2018/05/sqlite-logo-1.png">
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png">
-<img height="32" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
+<img height="32" src="https://img.icons8.com/color/452/visual-studio.png">
+<img height="32" src="https://marcas-logos.net/wp-content/uploads/2019/11/Windows-Logo-1.png">
 </div>
 
 <div id="stats">
- <img height="204" src="https://github-readme-stats.vercel.app/api?username=yxqsnz&show_icons=true&theme=dracula">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxqsnz&theme=dracula">
+
+ <img  src="https://github-readme-stats.vercel.app/api?username=yxqsnz&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxqsnz&theme=dracula">
 </div>
 
