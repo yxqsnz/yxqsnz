@@ -1,5 +1,5 @@
 # Hi there 👋
-## i'm yxqsnz. a normal programmer.
+## Current learning Kotlin...
 ### I use:
 <div id="i_use">
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="HTML5"/>
