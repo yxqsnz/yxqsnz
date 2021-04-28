@@ -22,7 +22,8 @@ fn main() {
 + Visual studio code
 
 # TODO
-> - [ ] A simple interpreter in Rust
+> - [x] A simple interpreter in Rust
+
 > - [ ] A simple Chat backend in Kotlin
 
 # Stats
