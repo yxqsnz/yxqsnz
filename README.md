@@ -1,4 +1,6 @@
-# Hi there 👋
+
+# ![Vibing cat](https://cdn.discordapp.com/emojis/783542677891317780.gif)  Hi there 👋
+
 
 ```rust
 fn main() {
@@ -11,6 +13,7 @@ fun main() {
     println("Hello Everyone!")
 }
 ```
+
 # I use:
 ## Languages
 
