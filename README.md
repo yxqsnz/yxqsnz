@@ -33,8 +33,10 @@ fun main() {
 
 > - [ ] A simple Chat backend in Kotlin
 
-# Stats
+| Github stats | Top Languages |
+| ----------- | ----------- |
+| [![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxqsnz&langs_count=20&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
-> [![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxqsnz&langs_count=20&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
