@@ -8,11 +8,7 @@ fn main() {
     println!("Hello, i'm yxqsnz!");
 }
 ```
-```kt
-fun main() {
-    println("Hello Everyone!")
-}
-```
+
 
 # I use:
 ## Languages
@@ -23,15 +19,13 @@ fun main() {
 > ![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 
 ## OS
- ![Manjaro](https://img.shields.io/badge/Manjaro-fff?style=for-the-badge&logo=manjaro)
+ ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 # Tools
- <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+ <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 
 # TODO
-> - [x] A simple interpreter in Rust
-
-> - [ ] A simple Chat backend in Kotlin
+> - [x] Nothing here
 
 | Github stats | Top Languages |
 | ----------- | ----------- |
