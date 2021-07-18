@@ -19,7 +19,7 @@ fn main() {
 > ![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 
 ## OS
- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+ ![Solus OS](https://img.shields.io/badge/Solus_OS-5593e0?style=for-the-badge&logo=solus&logoColor=white)
 # Tools
  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
