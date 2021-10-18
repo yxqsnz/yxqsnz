@@ -1,16 +1,16 @@
 
-# ![Vibing cat](https://cdn.discordapp.com/emojis/783542677891317780.gif)  Hi there 👋
+# <img src="https://cdn.discordapp.com/emojis/783542677891317780.gif" height="30" height="30">  Hi there 👋
 
 
 ```rust
 fn main() {
-    // Rust is cool.
     println!("Hello, i'm yxqsnz!");
+    assert_eq!(Language::RustLang  , Best::ProgrammingLanguageForMe); 
+    assert_eq!(Paradigm::Functional, Best::Paradigm);
+    assert_eq!(Editor::Emacs       , Best::Editor);
 }
 ```
 
-
-# I use:
 ## Languages
 
 > ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) \
@@ -19,13 +19,16 @@ fn main() {
 > ![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 
 ## OS
- ![Solus OS](https://img.shields.io/badge/Solus_OS-5593e0?style=for-the-badge&logo=solus&logoColor=white)
+ ![Arch Linux](https://img.shields.io/badge/I_Use_Arch_BTW-5593e0?style=for-the-badge&logo=archlinux&logoColor=white)
 # Tools
  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
- <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
-
+ 
+ ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+ 
 # TODO
-> - [x] Nothing here
+> - [ ] Emacs Plugin 
+> - [ ] WebSocket Chat
+> - [ ] [AliuCord](https://github.com/Aliucord/Aliucord) Plugin
 
 | Github stats | Top Languages |
 | ----------- | ----------- |
