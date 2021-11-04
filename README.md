@@ -1,39 +1,23 @@
+<p align=center>
+    <img src="https://cdn.discordapp.com/emojis/783542677891317780.gif"/> 
+    <br/>
+    <img src="https://gpvc.arturio.dev/yxqsnz"/> 
+    <br>
+    <br>
+</p>
 
-# <img src="https://cdn.discordapp.com/emojis/783542677891317780.gif" height="30" height="30">  Hi there 👋 ![](https://komarev.com/ghpvc/?username=yxqsnz)
+<h1 align=center>Hi 👋, I'm Yxqsnz</h1> 
 
+<p align=center> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=yxqsnz&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
 
-```rust
-fn main() {
-    println!("Hello, i'm yxqsnz!");
-    assert_eq!(Language::RustLang  , Best::ProgrammingLanguageForMe); 
-    assert_eq!(Paradigm::Functional, Best::Paradigm);
-    assert_eq!(Editor::Emacs       , Best::Editor);
-}
-```
-
-## Languages
-
-> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) \
-> ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white) \
-> ![Python](https://img.shields.io/badge/Python-ffcc3b?style=for-the-badge&logo=python) \
-> ![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
-
-## OS
- ![Arch Linux](https://img.shields.io/badge/I_Use_Arch_BTW-5593e0?style=for-the-badge&logo=archlinux&logoColor=white)
-# Tools
- <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
- 
- ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
- 
-# TODO
-> - [ ] Emacs Plugin 
-> - [ ] WebSocket Chat
-> - [ ] [AliuCord](https://github.com/Aliucord/Aliucord) Plugin
-
-| Github stats | Top Languages |
-| ----------- | ----------- |
-| [![yxqsnz's github stats](https://github-readme-stats.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxqsnz&langs_count=20&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-
-
+<p align=center>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yxqsnz&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
+<p>
+    
+##
+<p align=center>
+    <img src="https://count.getloli.com/get/@yxqsnz?theme=rule34"/>
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=73546477)
