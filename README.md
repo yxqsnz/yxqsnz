@@ -1,23 +1,24 @@
-<p align=center>
-    <img src="https://cdn.discordapp.com/emojis/783542677891317780.gif"/> 
-    <br/>
-    <img src="https://gpvc.arturio.dev/yxqsnz"/> 
-    <br>
-    <br>
-</p>
+Hi 👋, I am Yxqsnz     <img align=right src="https://gpvc.arturio.dev/yxqsnz"/> 
+---
+## Contact
 
-<h1 align=center>Hi 👋, I'm Yxqsnz</h1> 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" align="right"
+     alt="Github stats" width="500">
 
-<p align=center> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=yxqsnz&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
+[<kbd>![Matrix](https://img.shields.io/badge/Matrix-25D366?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@awakinos:matrix.org)
+[<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/615176567567548446)
+[<kbd>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yxqsnz)
+[<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/yxqsnz)
 
-<p align=center>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yxqsnz&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
-<p>
-    
-##
-<p align=center>
-    <img src="https://count.getloli.com/get/@yxqsnz?theme=rule34"/>
-</p>
-
+## Tools
+<kbd> ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) </kbd>
+<kbd> ![Manjaro KDE](https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white) </kbd>
+<kbd> ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) </kbd>
+<kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
+## Experience
+<kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
+<kbd> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) </kbd>
+<kbd> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) </kbd>
+<kbd> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
+<kbd> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </kbd>
 ![](https://hit.yhype.me/github/profile?user_id=73546477)
