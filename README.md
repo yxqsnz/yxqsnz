@@ -12,7 +12,7 @@ Hi 👋, I am Yxqsnz     <img align=right src="https://gpvc.arturio.dev/yxqsnz"/
 
 ## Tools
 <kbd> ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) </kbd>
-<kbd> ![Arch btw](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) </kbd>
+<kbd> ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white) </kbd>
 <kbd> ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) </kbd>
 <kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
 ## Experience
