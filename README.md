@@ -22,12 +22,8 @@ Hi 👋, I am Yxqsnz     <img align=right src="https://gpvc.arturio.dev/yxqsnz"/
 <kbd> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) </kbd>
 <kbd> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
 <kbd> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </kbd>
-<details>
-  <summary>Wakatime</summary>
-  <pre>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-  </pre>
-</details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+     
 ![](https://hit.yhype.me/github/profile?user_id=73546477)
