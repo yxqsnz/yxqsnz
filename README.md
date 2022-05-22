@@ -12,9 +12,9 @@ Hi 👋, I am Yxqsnz     <img align=right src="https://gpvc.arturio.dev/yxqsnz"/
 
 ## Tools
 <kbd> ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) </kbd>
-<kbd> ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) </kbd>
+<kbd> ![Visual Studio Code](https://img.shields.io/badge/Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </kbd>
 <kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
-<kbd> ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) </kbd>
+<kbd> ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) </kbd>
 ## Experience
 <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
 <kbd> ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) </kbd>
